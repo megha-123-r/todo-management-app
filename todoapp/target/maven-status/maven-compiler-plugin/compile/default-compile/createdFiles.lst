@@ -1,0 +1,10 @@
+com\jthread\todoapp\advice\GlobalExceptionHandler.class
+com\jthread\todoapp\model\Task$Status.class
+com\jthread\todoapp\service\TaskServiceImpl.class
+com\jthread\todoapp\controller\TaskController.class
+com\jthread\todoapp\model\Task$Priority.class
+com\jthread\todoapp\service\TaskService.class
+com\jthread\todoapp\repository\TaskRepository.class
+com\jthread\todoapp\model\Task.class
+com\jthread\todoapp\exception\TaskNotFoundException.class
+com\jthread\todoapp\TodoappApplication.class
